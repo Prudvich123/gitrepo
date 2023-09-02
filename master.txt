@@ -2,4 +2,9 @@ hi from main branch .
 
 "master.txt"\
 
-edited: hoi from child branch(private)
+edited: hoi from child branch(private)i    
+
+
+
+
+once again editing
