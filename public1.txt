@@ -1,2 +1,1 @@
-this is public1.txt
-
+hi from public.txt. this is public1.txt file 
