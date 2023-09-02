@@ -1,3 +1,5 @@
 hi from main branch .
 
-"master.txt"
+"master.txt"\
+
+edited: hoi from child branch(private)
